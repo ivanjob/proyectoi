@@ -10,15 +10,6 @@ package proyectoi;
  *
  * @author alum.fial8
  */
-public class Proyectoi {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.print("");
-        
-    }
+public class prueba {
     
 }
